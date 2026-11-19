@@ -1,0 +1,4 @@
+asset_id,period,source,forecast_mwh,forecast_granularity
+W01,2026-07,wind,860,monthly
+S01,2026-07,solar,1120,monthly
+W01,2026-07-15T18:00,wind,18,hourly

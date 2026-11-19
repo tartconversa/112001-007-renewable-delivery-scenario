@@ -1,0 +1,4 @@
+dataset,records,purpose
+generation.csv,3,generation
+grid_events.csv,2,grid_events
+storage_demand.csv,3,storage_demand

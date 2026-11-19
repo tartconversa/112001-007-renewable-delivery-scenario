@@ -1,0 +1,4 @@
+storage_id,period,charge_mwh,discharge_mwh,round_trip_efficiency,area_id,peak_demand_mwh
+BAT1,2026-07-15,20,16,0.82,Zone-A,45
+BAT1,2026-07-16,12,10,0.82,Zone-A,41
+BAT2,2026-07-15,0,0,0.90,Zone-B,30
