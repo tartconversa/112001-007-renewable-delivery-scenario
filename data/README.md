@@ -1,5 +1,5 @@
-# Synthetic input data
+# 合成输入数据
 
-Synthetic renewable generation, grid restriction, storage and demand intervals for planning comparisons.
+用于规划比较的合成新能源发电、电网限制、储能与需求时段记录。
 
-All records are fictional and intended only for local development. Dates and measurements are illustrative.
+所有记录均为虚构，仅供本地开发使用。日期与数值均为示例。
