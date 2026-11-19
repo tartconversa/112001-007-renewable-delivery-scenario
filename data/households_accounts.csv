@@ -1,0 +1,4 @@
+household_token,area_id,income_band,occupants,account_token,shared_account,consent_status
+H01,North,low,3,E01,no,active
+H02,North,low,2,E02,yes,active
+H03,South,middle,4,E02,yes,pending

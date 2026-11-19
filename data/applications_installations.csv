@@ -1,0 +1,4 @@
+application_id,household_token,measure,quote,provider_id,available_from,available_to,grant_status,installed_on,post_kwh
+A01,H01,heat_pump,6200,INST-A,2026-07-01,2026-07-15,approved,2026-07-08,510
+A02,H02,induction_upgrade,1450,INST-A,2026-07-01,2026-07-10,waiting,,
+A03,H03,heat_pump,5900,INST-B,2026-07-12,2026-07-25,submitted,,

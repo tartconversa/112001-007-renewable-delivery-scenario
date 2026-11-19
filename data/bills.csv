@@ -1,0 +1,4 @@
+bill_id,account_token,period,electric_kwh,amount_due,adjustment_of,statement_status
+B01,E01,2026-01,840,910,,final
+B02,E02,2026-01,1260,1370,,final
+B03,E02,2026-01,-120,-130,B02,correction
